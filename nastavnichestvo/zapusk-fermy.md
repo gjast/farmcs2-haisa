@@ -40,4 +40,4 @@
 * Если ты не готов вникать и хочешь, чтобы всё сделали за тебя - тебе нужен [отфарм](otfarm-akkauntov.md), а не наставничество.
 {% endhint %}
 
-<h3 align="center">Написать мне ➙ <a href="TGLink"><mark style="color:green;">TGLink</mark></a></h3>
+<h3 align="center">Написать мне ➙ <a href="https://t.me/jjjyhhff"><mark style="color:green;">TGLink</mark></a></h3>
