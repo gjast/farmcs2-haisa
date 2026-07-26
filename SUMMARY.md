@@ -36,6 +36,7 @@
 * [\[ASF\] ArchiSteamFarm](programmy/asf.md)
 * [\[SDA\] Steam Desktop Authenticator](programmy/sda.md)
 * [\[SIH\] Steam Inventory Helper](programmy/sih.md)
+* [\[Manager Standard\] Account Manager & Activity Booster](programmy/manager-standard.md)
 
 ## 🎓 Наставничество по ферме
 
