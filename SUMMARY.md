@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ферма в CS2](README.md)
+* [👨‍🌾 Ферма в CS2](README.md)
 
 ## 🌾 Создание фермы и нюансы
 

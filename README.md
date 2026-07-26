@@ -1,8 +1,8 @@
 ---
-description: Фермы CS2 без выебонов - гайд от Жителя ферм
+description: Ферма CS2 без выебонов - гайд от Жителя ферм
 ---
 
-# Ферма в CS2
+# 👨‍🌾 Ферма в CS2
 
 <figure><img src=".gitbook/assets/как-это-работает.jpg" alt=""><figcaption></figcaption></figure>
 
