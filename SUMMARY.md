@@ -10,7 +10,7 @@
 
 ## 🖥️ Компьютеры для фермы
 
-* [Минимальные / Рекомендуемые сборки](kompyutery/sborki.md)
+* [Минимальные / Рекомендуемые сборки для FSM](kompyutery/sborki.md)
 * [Мои компьютеры](kompyutery/moi-kompyutery.md)
 
 ## 👤 Создание аккаунтов
@@ -36,7 +36,6 @@
 * [\[ASF\] ArchiSteamFarm](programmy/asf.md)
 * [\[SDA\] Steam Desktop Authenticator](programmy/sda.md)
 * [\[SIH\] Steam Inventory Helper](programmy/sih.md)
-* [\[SRT\] Steam Route Tool](programmy/srt.md)
 
 ## 🎓 Наставничество по ферме
 

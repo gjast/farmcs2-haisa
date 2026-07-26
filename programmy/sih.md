@@ -1,6 +1,4 @@
-# [SIH] Steam Inventory Helper
-
-<figure><img src="" alt=""><figcaption><p>📷 СЮДА ВСТАВЬ СКРИН - интерфейс SIH в инвентаре Steam</p></figcaption></figure>
+# \[SIH] Steam Inventory Helper
 
 #### **Steam Inventory Helper** - расширение для браузера, которое превращает продажу дропа из пытки в пару кликов. На аккаунте-сборщике с сотнями предметов это вещь незаменимая.
 
