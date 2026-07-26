@@ -8,14 +8,14 @@
 
 <h2 align="center">⚠️ <mark style="color:green;">Минимальные требования</mark></h2>
 
-### <mark style="color:blue;">Один поток (≈160 аккаунтов в неделю)</mark>
+### <mark style="color:blue;">Один поток фарма режима 2х2 (≈160 аккаунтов в неделю)</mark>
 
 * #### **CPU** - Intel Core i5-10400F / AMD Ryzen 5 2600 / Xeon E5-2680 v3
 * #### **RAM** - 16 GB
 * #### **SSD** - 50 GB свободного места под файл подкачки
 * #### **GPU** - GeForce GT 1030 DDR5
 
-### <mark style="color:blue;">Два потока (≈320 аккаунтов в неделю)</mark>
+### <mark style="color:blue;">Два потока фарма режима 2х2 (≈320 аккаунтов в неделю)</mark>
 
 * #### **CPU** - Intel Core i5-12400F / AMD Ryzen 5 5600X / Xeon E5-2696 v3
 * #### **RAM** - 32 GB
@@ -28,19 +28,21 @@
 
 <h2 align="center">✅ <mark style="color:green;">Для стабильной работы</mark></h2>
 
-### <mark style="color:blue;">Один поток (≈160 аккаунтов в неделю)</mark>
+### <mark style="color:blue;">Один поток фарма режима 2х2 (≈160 аккаунтов в неделю)</mark>
 
 * #### **CPU** - AMD Ryzen 5 3600
 * #### **RAM** - 20 GB
 * #### **GPU** - GTX 1050 Ti
 * #### **SSD** - M.2 на 256 GB
 
-### <mark style="color:blue;">Два потока (≈320 аккаунтов в неделю)</mark>
+### <mark style="color:blue;">Два потока фарма режима 2х2 (≈320 аккаунтов в неделю)</mark>
 
 * #### **CPU** - AMD Ryzen 7 5700X
 * #### **RAM** - 40 GB
 * #### **GPU** - GTX 1060 6 GB
 * #### **SSD** - M.2 на 256 GB
+
+<h2 align="center"><strong>Это всё что касается фарма режима 2х2 на панели</strong> <a href="https://t.me/moonlighter_shop_bot?start=6810487864">FSM</a></h2>
 
 <h2 align="center">🔧 <mark style="color:green;">На что реально смотреть при сборке</mark></h2>
 
@@ -55,3 +57,4 @@
 {% hint style="success" %}
 **Про питание и охлаждение.** Машина будет работать сутками без выходных. Нормальный блок питания и продув корпуса - это не роскошь, а страховка от того, что ферма умрёт физически, а не от банов.
 {% endhint %}
+
