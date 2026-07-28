@@ -47,4 +47,4 @@
 В расчёт **обязательно** закладывай смертность аккаунтов. Ферма, которая окупается ровно к моменту следующей волны банов - это ферма, которая работает в ноль. Хорошая модель - та, что окупается с запасом.
 {% endhint %}
 
-<h3 align="center"><a href="TGLink/"><mark style="color:green;"><strong>Свежие цифры и разборы волн - в канале</strong></mark></a></h3>
+<h3 align="center"><a href="https://t.me/fermabezviebonov"><mark style="color:green;"><strong>Свежие цифры и разборы волн - в канале</strong></mark></a></h3>
