@@ -1,46 +1,46 @@
-# Что вообще можно фармить в CS2?
+# What can you actually farm in CS2?
 
 <figure><img src="../.gitbook/assets/как-это-работает.jpg" alt=""><figcaption></figcaption></figure>
 
-<h2 align="center">🌾 <mark style="color:green;">Два направления, а не одно</mark></h2>
+<h2 align="center">🌾 <mark style="color:green;">Two directions, not one</mark></h2>
 
-### <mark style="color:blue;">Всё, что сегодня имеет смысл фармить в CS2, делится на две ветки:</mark>
+### <mark style="color:blue;">Everything worth farming in CS2 today splits into two branches:</mark>
 
-1. #### **Фарм кейсов** - работаешь с еженедельным дропом на прайм-аккаунтах.
-2. #### **Фарм Armory Pass** - работаешь со звёздами внутриигрового пропуска.
+1. #### **Case farming** — you work with the weekly drop on Prime accounts.
+2. #### **Armory Pass farming** — you work with the stars of the in-game pass.
 
-#### Это разные схемы с разной математикой, разными рисками и разным порогом входа. Многие путают их в одну кучу и потом удивляются, почему «фарм не окупается».
+#### These are different schemes with different math, different risks and a different entry threshold. A lot of people lump them together and then wonder why "farming doesn't pay off".
 
 ***
 
-<h2 align="center">📦 <mark style="color:green;">Фарм кейсов</mark></h2>
+<h2 align="center">📦 <mark style="color:green;">Case farming</mark></h2>
 
 <figure><img src="../.gitbook/assets/фарм-кейсов.jpg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">Как тут появляются деньги?</mark>
+### <mark style="color:blue;">Where does the money come from?</mark>
 
-#### В CS2 есть система еженедельных наград. Аккаунт с прайм-статусом раз в неделю за повышение звания получает случайный предмет - чаще всего это кейс и скин из коллекций карт. Предмет продаётся за живые деньги.
+#### CS2 has a weekly reward system. An account with Prime status gets a random item once a week for ranking up — most often a case and a skin from the map collections. That item sells for real money.
 
-#### Одна недельная награда - копейки. Двести аккаунтов, которые получают её каждую неделю, - уже понятная сумма. Вся схема строится на количестве, а не на удаче.
+#### One weekly reward is pennies. Two hundred accounts getting it every week is already a real number. The whole scheme is built on quantity, not luck.
 
-<h3 align="center"><a href="farm-keisov.md"><mark style="color:green;">Подробно про фарм кейсов →</mark></a></h3>
+<h3 align="center"><a href="farm-keisov.md"><mark style="color:green;">More on case farming →</mark></a></h3>
 
 ***
 
-<h2 align="center">⭐ <mark style="color:green;">Фарм Armory Pass</mark></h2>
+<h2 align="center">⭐ <mark style="color:green;">Armory Pass farming</mark></h2>
 
 <figure><img src="../.gitbook/assets/армори-пасс.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">Как тут появляются деньги?</mark>
+### <mark style="color:blue;">Where does the money come from?</mark>
 
-#### Armory Pass - это внутриигровой пропуск. Играя, ты набиваешь по нему звёзды, а звёзды меняешь во внутриигровом магазине на предметы из доступных коллекций. На одном аккаунте можно держать сразу **5 пропусков** и суммарно собрать **200 звёзд**.
+#### The Armory Pass is an in-game pass. As you play, you rack up stars, and you exchange those stars in the in-game shop for items from the available collections. On a single account you can hold **5 passes** at once and collect a total of **200 stars**.
 
-#### Здесь ты не ждёшь недельный дроп, а сам решаешь, во что конвертировать звёзды. И именно от этого решения зависит, выйдешь ты в плюс или подаришь деньги Габену.
+#### Here you don't wait for a weekly drop — you decide yourself what to convert your stars into. And that decision is exactly what determines whether you come out ahead or just gift your money to Gaben.
 
-<h3 align="center"><a href="farm-armory-pass.md"><mark style="color:green;">Подробно про фарм Armory Pass →</mark></a></h3>
+<h3 align="center"><a href="farm-armory-pass.md"><mark style="color:green;">More on Armory Pass farming →</mark></a></h3>
 
 ***
 
 {% hint style="info" %}
-**Что выбрать новичку?** Если бюджет маленький - кейсы. Порог входа ниже, ошибки дешевле, и ты успеешь понять механику до того, как начнёшь заносить серьёзные суммы. Armory - история для тех, кто уже умеет считать ROI и не паникует от просадок.
+**What should a beginner pick?** If the budget is small — cases. The entry threshold is lower, mistakes are cheaper, and you'll get to understand the mechanics before you start putting in serious money. Armory is for those who already know how to calculate ROI and don't panic during dips.
 {% endhint %}

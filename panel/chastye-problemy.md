@@ -1,90 +1,90 @@
-# Частые проблемы и решения
+# Common problems and fixes
 
 <figure><img src="../.gitbook/assets/настройка-панели.png" alt=""><figcaption></figcaption></figure>
 
-#### Собрал то, что спрашивают чаще всего в [чате](https://t.me/+c3hy7i0qID41ZTBk). Если твоей проблемы тут нет - заходи, разберём вместе.
+#### I've gathered the things people ask about most often in the [chat](https://t.me/+c3hy7i0qID41ZTBk). If your problem isn't here — come in, we'll sort it out together.
 
 ***
 
 <details>
 
-<summary>Аккаунты не логинятся / вылетает ошибка входа</summary>
+<summary>Accounts won't log in / a login error pops up</summary>
 
-* Проверь, не истёк ли срок ограничения после привязки SDA.
-* Убедись, что maFile соответствует аккаунту и не повреждён.
-* Проверь пароль - если аккаунт покупной, продавец мог сменить его после выдачи.
-* Слишком много попыток входа с одного IP подряд - Steam временно режет. Подожди и разнеси по адресам.
-
-</details>
-
-<details>
-
-<summary>Не находятся игры / матч не стартует</summary>
-
-* Проверь требования панели к аккаунту: где-то нужен второй уровень, где-то нет.
-* Проверь, не сидит ли аккаунт в кулдауне за выход из матчей.
-* Слишком мало аккаунтов запущено одновременно - для некоторых режимов нужен минимум.
-* Проверь, не идут ли работы на стороне панели: обычно об этом пишут в их канале.
+* Check whether the restriction period after linking SDA has expired.
+* Make sure the maFile matches the account and isn't corrupted.
+* Check the password — if the account was bought, the seller may have changed it after delivery.
+* Too many login attempts from one IP in a row — Steam temporarily throttles. Wait and spread them across addresses.
 
 </details>
 
 <details>
 
-<summary>Клиенты вылетают, система висит</summary>
+<summary>Games aren't found / the match won't start</summary>
 
-* Первое и главное - не хватает оперативки. Снизь количество потоков.
-* Увеличь файл подкачки вручную, с запасом.
-* Отключи лишний софт из автозагрузки.
-* Проверь температуры - при перегреве система начинает троттлить и всё ложится.
-
-</details>
-
-<details>
-
-<summary>Дроп не собирается на сборщик</summary>
-
-* Проверь трейд-ссылку: она меняется, если ты обновлял ссылку в настройках приватности.
-* Проверь, что у аккаунта-сборщика открыт инвентарь и он не в трейд-бане.
-* Убедись, что на фармящих аккаунтах нет ограничения на обмены.
-* Проверь лимит инвентаря на сборщике - он не бесконечный.
+* Check the panel's account requirements: some need a second level, some don't.
+* Check whether the account is in a cooldown for leaving matches.
+* Too few accounts running at once — some modes need a minimum.
+* Check whether there's maintenance on the panel's side: they usually post about it in their channel.
 
 </details>
 
 <details>
 
-<summary>Антивирус удаляет файлы панели</summary>
+<summary>Clients crash, the system hangs</summary>
 
-* Это ожидаемо: спуфер и инжектор всегда выглядят подозрительно для антивируса.
-* Добавь папку панели в исключения **до** распаковки.
-* Никогда не решай проблему скачиванием «пофикшенной» сборки со стороны - это и есть основной способ угона ферм.
-
-</details>
-
-<details>
-
-<summary>Аккаунт получил VAC / красную табличку</summary>
-
-* Аккаунт с VAC в CS2 уже не восстановить - он выбывает.
-* Дроп с него, если ещё не отправлен, скорее всего уже недоступен.
-* Что делать дальше: смотреть, сколько аккаунтов легло разом. Если это волна - не подставляй остальных, останови фарм и жди информации.
+* First and foremost — not enough RAM. Lower the number of streams.
+* Increase the pagefile manually, with headroom.
+* Disable unnecessary software from startup.
+* Check temperatures — on overheat the system starts throttling and everything falls over.
 
 </details>
 
 <details>
 
-<summary>Прилетело сразу много банов - что делать?</summary>
+<summary>The drop isn't collecting on the collector</summary>
 
-* Не паниковать и не заносить срочно новую партию «чтобы отбить».
-* Остановить фарм, посмотреть, кого зацепило и по какому признаку - режим, панель, возраст аккаунтов.
-* Дождаться, пока станет понятно, что именно выкашивали. Обычно за пару дней картина складывается.
-* Только после этого решать, стоит ли перезапускаться и в каком режиме.
+* Check the trade link: it changes if you refreshed the link in your privacy settings.
+* Make sure the collector account has its inventory open and isn't in a trade ban.
+* Make sure the farming accounts don't have a trade restriction.
+* Check the inventory limit on the collector — it's not infinite.
+
+</details>
+
+<details>
+
+<summary>The antivirus deletes the panel's files</summary>
+
+* This is expected: the spoofer and injector always look suspicious to an antivirus.
+* Add the panel's folder to exclusions **before** unpacking.
+* Never solve the problem by downloading a "fixed" build from somewhere else — that's exactly the main way farms get stolen.
+
+</details>
+
+<details>
+
+<summary>An account got VAC / a red banner</summary>
+
+* An account with VAC in CS2 can no longer be recovered — it's out.
+* The drop on it, if not yet sent, is most likely already unavailable.
+* What to do next: look at how many accounts fell at once. If it's a wave — don't expose the rest, stop farming and wait for information.
+
+</details>
+
+<details>
+
+<summary>A lot of bans hit at once — what to do?</summary>
+
+* Don't panic and don't urgently put in a new batch "to make it back".
+* Stop farming, look at who got caught and by what trait — mode, panel, account age.
+* Wait until it becomes clear what exactly was being mowed down. Usually the picture comes together in a couple of days.
+* Only after that decide whether it's worth restarting and in what mode.
 
 </details>
 
 ***
 
 {% hint style="warning" %}
-**Универсальное правило.** Если у тебя разом сломалось всё сразу - почти всегда виновато одно изменение, которое ты сделал последним. Откати его и проверь.
+**A universal rule.** If everything broke all at once — it's almost always to blame on the one change you made last. Roll it back and check.
 {% endhint %}
 
-<h3 align="center"><a href="https://t.me/+c3hy7i0qID41ZTBk"><mark style="color:green;"><strong>Фермерский чат - задать вопрос</strong></mark></a></h3>
+<h3 align="center"><a href="https://t.me/+c3hy7i0qID41ZTBk"><mark style="color:green;"><strong>Farmers' chat — ask a question</strong></mark></a></h3>

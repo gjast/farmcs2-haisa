@@ -1,47 +1,47 @@
 # \[ASF] ArchiSteamFarm
 
-#### **ArchiSteamFarm** - бесплатная опенсорсная программа для работы с большим количеством Steam-аккаунтов одновременно. Для фермера это основной инструмент прогрева и массовых операций.
+#### **ArchiSteamFarm** is a free, open-source program for working with a large number of Steam accounts at once. For a farmer it's the main tool for warming up and mass operations.
 
-<h2 align="center">🧰 <mark style="color:green;">Что умеет</mark></h2>
+<h2 align="center">🧰 <mark style="color:green;">What it can do</mark></h2>
 
-* #### Фармить коллекционные карточки на десятках аккаунтов разом
-* #### Накручивать часы в играх (прогрев)
-* #### Массово менять никнеймы и аватарки
-* #### Массово активировать ключи
-* #### Работать в фоне, не мешая пользоваться компьютером
+* #### Farm trading cards on dozens of accounts at once
+* #### Rack up hours in games (warming up)
+* #### Mass-change nicknames and avatars
+* #### Mass-activate keys
+* #### Run in the background without getting in the way of using the computer
 
-<h2 align="center">⚙️ <mark style="color:green;">Установка</mark></h2>
+<h2 align="center">⚙️ <mark style="color:green;">Installation</mark></h2>
 
-1. #### Качаем последний релиз с **официального GitHub** проекта ArchiSteamFarm.
-2. #### Распаковываем в отдельную папку, путь без кириллицы.
-3. #### Запускаем `ArchiSteamFarm.exe` - откроется консоль.
-4. #### Открываем веб-интерфейс в браузере по адресу, который покажет консоль.
+1. #### Download the latest release from the ArchiSteamFarm project's **official GitHub**.
+2. #### Unpack it into a separate folder, a path with no Cyrillic characters.
+3. #### Run `ArchiSteamFarm.exe` — a console will open.
+4. #### Open the web interface in your browser at the address the console shows.
 
-<h2 align="center">🤖 <mark style="color:green;">Добавление аккаунтов</mark></h2>
+<h2 align="center">🤖 <mark style="color:green;">Adding accounts</mark></h2>
 
-#### Каждый аккаунт в ASF - это «бот» со своим `.json` конфигом в папке `config`. Создать его можно через веб-интерфейс или руками.
+#### Each account in ASF is a "bot" with its own `.json` config in the `config` folder. You can create it through the web interface or by hand.
 
-#### Минимум, что нужно указать: логин, пароль и признак того, что бот включён. Всё остальное - по задаче.
+#### The minimum you need to specify: login, password and a flag that the bot is enabled. Everything else — as the task requires.
 
 {% hint style="success" %}
-При большом количестве аккаунтов конфиги удобнее генерировать скриптом из своей таблицы с логинами и паролями. Руками сто штук заполнять - путь в никуда.
+With a large number of accounts, it's more convenient to generate the configs with a script from your spreadsheet of logins and passwords. Filling in a hundred by hand is a road to nowhere.
 {% endhint %}
 
-<h2 align="center">▶️ <mark style="color:green;">Работа</mark></h2>
+<h2 align="center">▶️ <mark style="color:green;">Operation</mark></h2>
 
-#### **Запуск.** Переключатель рядом с именем бота в веб-интерфейсе. Либо команда `start asf` - поднимет всех сразу.
+#### **Launching.** The toggle next to the bot's name in the web interface. Or the `start asf` command — it brings everyone up at once.
 
 {% hint style="warning" %}
-Не запускай больше **50 аккаунтов** за раз. Больше - начнёт душить систему и интернет-канал, а часть ботов просто не залогинится.
+Don't launch more than **50 accounts** at a time. More than that — it'll start choking the system and the connection, and some of the bots simply won't log in.
 {% endhint %}
 
-#### **Остановка.** Тем же переключателем либо командой `stop asf` во вкладке «Команды».
+#### **Stopping.** With the same toggle or the `stop asf` command in the "Commands" tab.
 
-#### **Время работы.** На твоё усмотрение - час, сутки, неделя. Главное не закрывать консоль ASF и вкладку интерфейса.
+#### **Runtime.** Up to you — an hour, a day, a week. The main thing is not to close the ASF console and the interface tab.
 
-<h2 align="center">💡 <mark style="color:green;">Полезные команды</mark></h2>
+<h2 align="center">💡 <mark style="color:green;">Useful commands</mark></h2>
 
-* #### `start asf` - запустить всех ботов
-* #### `stop asf` - остановить всех
-* #### `status asf` - общий статус
-* #### `redeem <бот> <ключ>` - активировать ключ на аккаунте
+* #### `start asf` — start all bots
+* #### `stop asf` — stop all
+* #### `status asf` — overall status
+* #### `redeem <bot> <key>` — activate a key on an account

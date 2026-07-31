@@ -1,38 +1,38 @@
-# Привязка SDA
+# Linking SDA
 
 <figure><img src="../.gitbook/assets/аккаунты.png" alt=""><figcaption></figcaption></figure>
 
-#### **SDA (Steam Desktop Authenticator)** - это мобильный аутентификатор Steam, только на компьютере. Он генерирует коды входа и подтверждает трейды, а самое главное - отдаёт тебе **maFile**, файл с ключами от аккаунта.
+#### **SDA (Steam Desktop Authenticator)** is Steam's mobile authenticator, just on your computer. It generates login codes and confirms trades, and most importantly — it gives you the **maFile**, the file with the account's keys.
 
 {% hint style="warning" %}
-maFile - это, по сути, и есть аккаунт. Потерял файл - потерял возможность подтверждать обмены. Отдал файл - отдал аккаунт. Бэкапь всю папку `maFiles` в отдельное место сразу же.
+The maFile is essentially the account itself. Lose the file — lose the ability to confirm trades. Give away the file — give away the account. Back up the entire `maFiles` folder to a separate place immediately.
 {% endhint %}
 
-<h2 align="center">⚙️ <mark style="color:green;">Установка</mark></h2>
+<h2 align="center">⚙️ <mark style="color:green;">Installation</mark></h2>
 
-1. #### Качаем SDA **только с официального репозитория** на GitHub. Сборки с левых сайтов и из Telegram - это самый популярный способ подарить кому-то свою ферму.
-2. #### Распаковываем в отдельную папку. Путь без кириллицы.
-3. #### Первый запуск - программа попросит придумать пароль на шифрование. Придумай и запиши.
+1. #### Download SDA **only from the official repository** on GitHub. Builds from shady sites and Telegram are the most popular way to gift someone your farm.
+2. #### Unpack it into a separate folder. A path with no Cyrillic characters.
+3. #### First launch — the program will ask you to create an encryption password. Come up with one and write it down.
 
-<h2 align="center">🔗 <mark style="color:green;">Привязка аккаунта</mark></h2>
+<h2 align="center">🔗 <mark style="color:green;">Linking an account</mark></h2>
 
-1. #### Нажимаем **Setup New Account**.
-2. #### Вводим логин и пароль от Steam.
-3. #### Программа попросит код с почты - забираем письмо, вставляем код.
-4. #### Указываем номер телефона, если Steam его требует.
-5. #### Получаем **Revocation Code (R-код)** - записываем его отдельно, без него аккаунт не восстановить.
+1. #### Click **Setup New Account**.
+2. #### Enter your Steam login and password.
+3. #### The program will ask for the code from your email — grab the message, paste the code.
+4. #### Enter a phone number if Steam requires it.
+5. #### You get a **Revocation Code (R-code)** — write it down separately; without it you can't recover the account.
 
 {% hint style="warning" %}
-**R-код записывается всегда.** Это единственный способ снять аутентификатор, если что-то пойдёт не так. Люди теряют аккаунты именно на этом шаге, потому что промотали окно с кодом не глядя.
+**Always write down the R-code.** It's the only way to remove the authenticator if something goes wrong. People lose accounts exactly at this step because they scrolled past the code window without looking.
 {% endhint %}
 
-<h2 align="center">📌 <mark style="color:green;">Важные нюансы</mark></h2>
+<h2 align="center">📌 <mark style="color:green;">Important nuances</mark></h2>
 
-* #### Привязку делаем **с того же IP**, с которого регистрировали аккаунт.
-* #### После привязки Steam ставит ограничение на трейды и продажу на неделю - это нормально, так у всех.
-* #### Не привязывай по сто аккаунтов подряд без пауз, дай процессу выглядеть живым.
-* #### Папку `maFiles` держи в бэкапе минимум в двух местах, одно из них - офлайн.
+* #### Do the linking **from the same IP** you registered the account from.
+* #### After linking, Steam puts a one-week restriction on trades and selling — that's normal, it's the same for everyone.
+* #### Don't link a hundred accounts in a row without breaks; let the process look alive.
+* #### Keep the `maFiles` folder backed up in at least two places, one of them offline.
 
 {% hint style="success" %}
-Когда аккаунты уходят в панель, ей обычно нужен именно maFile - он позволяет автоматически логиниться и подтверждать отправку дропа без ручного участия.
+When accounts go into a panel, it usually needs exactly the maFile — it lets it log in automatically and confirm sending the drop without any manual input.
 {% endhint %}

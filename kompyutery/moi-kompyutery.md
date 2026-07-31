@@ -1,47 +1,47 @@
-# Мои компьютеры
+# My computers
 
 <figure><img src="../.gitbook/assets/мои-компьютеры.png" alt=""><figcaption></figcaption></figure>
 
-#### Тут показываю, на чём реально крутится всё, о чём я пишу. Без «топ-сборок за 300 тысяч» - обычное рабочее железо, подобранное под задачу.
+#### Here I show what everything I write about actually runs on. No "top-tier $3000 builds" — just ordinary working hardware picked for the task.
 
-<h2 align="center">🖥️ <mark style="color:green;">Машина для DM №1 - основная</mark></h2>
+<h2 align="center">🖥️ <mark style="color:green;">DM machine #1 — the main one</mark></h2>
 
-* #### **CPU** - I9 10900K
-* #### **RAM** - 32 GB DDR4
-* #### **GPU** - 3080 RTX
-* #### **SSD** - Samsung 870 EVO 1 TB
-* #### **Потоков** - имею 4 ВМки
-* #### **Аккаунтов в работе** - 280
+* #### **CPU** — i9 10900K
+* #### **RAM** — 32 GB DDR4
+* #### **GPU** — RTX 3080
+* #### **SSD** — Samsung 870 EVO 1 TB
+* #### **Streams** — I run 4 VMs
+* #### **Accounts in operation** — 280
 
-<h2 align="center">🖥️ <mark style="color:green;">Машина для DM №2 и №3</mark></h2>
+<h2 align="center">🖥️ <mark style="color:green;">DM machine #2 and #3</mark></h2>
 
-* #### **CPU** - XEON e5-2697av4
-* #### **RAM** - 32gb+16gb Samsung 3200 hz
-* #### **GPU** - GTX 1070
-* #### **SSD** - 960gb patriot burst Elite
-* #### **Потоков** - 5+5
-*   #### **Аккаунтов в работе** - 750
+* #### **CPU** — Xeon e5-2697av4
+* #### **RAM** — 32gb+16gb Samsung 3200 MHz
+* #### **GPU** — GTX 1070
+* #### **SSD** — 960gb Patriot Burst Elite
+* #### **Streams** — 5+5
+*   #### **Accounts in operation** — 750
 
     <br>
 
-<h2 align="center">💻 <mark style="color:green;">Отдельная машина под хранилку</mark></h2>
+<h2 align="center">💻 <mark style="color:green;">A separate machine for the vault</mark></h2>
 
 {% hint style="warning" %}
-Отдельное устройство под аккаунт-хранилище - это не паранойя, а базовая гигиена. На фермерский ПК ты постоянно тащишь софт из интернета, часть которого рано или поздно окажется не тем, чем казалась. Держать там же доступ к аккаунту с инвестициями - плохая идея.\
+A dedicated device for the vault account isn't paranoia — it's basic hygiene. You're constantly pulling software from the internet onto the farm PC, some of which will sooner or later turn out to be not what it seemed. Keeping access to an account holding investments on that same PC is a bad idea.\
 \
-Я это использую потому что имею скинчики в CS2 и не хочу держать их на основном своём стиме, который находится на основном ПК, чтобы в случае волны не задело волной, плюс так же отдельно храню свои инвестиции CS2, которыми я тоже занимаюсь.
+I do this because I have some skins in CS2 and I don't want to keep them on my main Steam, which is on my main PC, so that a wave doesn't catch them; plus I separately store my CS2 investments, which I also deal with.
 {% endhint %}
 
-#### Под это дело хватит любого старого ноутбука, который умеет открывать браузер. Никаких требований к производительности тут нет.
+#### Any old laptop that can open a browser is enough for this. There are no performance requirements here.
 
-<h2 align="center">⚙️ <mark style="color:green;">Что я настраиваю на каждой машине</mark></h2>
+<h2 align="center">⚙️ <mark style="color:green;">What I configure on every machine</mark></h2>
 
-1. #### Отключаю автообновления Windows - перезагрузка посреди ночи убивает круг фарма.
-2. #### Отключаю спящий режим и гибернацию полностью.
-3. #### Выставляю файл подкачки вручную, с запасом.
-4. #### Ставлю план электропитания на максимальную производительность.
-5. #### Настраиваю автозапуск нужного софта, чтобы после сбоя питания всё поднялось само.
+1. #### Disable Windows auto-updates — a reboot in the middle of the night kills the farming cycle.
+2. #### Disable sleep and hibernation completely.
+3. #### Set the pagefile manually, with headroom.
+4. #### Set the power plan to maximum performance.
+5. #### Configure autostart for the needed software so everything comes back up on its own after a power failure.
 
 {% hint style="success" %}
-Пункт 5 недооценивают. Свет моргнул в три ночи - и если автозапуска нет, ферма стоит до утра. За неделю такие простои складываются в заметные деньги.
+People underrate point 5. The power flickers at 3 a.m. — and if there's no autostart, the farm sits idle until morning. Over a week, downtime like that adds up to noticeable money.
 {% endhint %}

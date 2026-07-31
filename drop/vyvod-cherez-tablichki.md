@@ -1,58 +1,58 @@
-# Вывод через таблички
+# Cashing out via calculators
 
 <figure><img src="../.gitbook/assets/вывод-средств.png" alt=""><figcaption></figcaption></figure>
 
-#### Способ дольше и требует головы, но выводит заметно выгоднее моментального. Суть: продаёшь дроп внутри Steam, на полученный баланс покупаешь ликвидный предмет и продаёшь его уже за живые деньги.
+#### This method is slower and takes some thinking, but it cashes out noticeably more profitably than the instant one. The gist: you sell the drop inside Steam, use the resulting balance to buy a liquid item, and sell that for real money.
 
 ***
 
-<h2 align="center">1️⃣ <mark style="color:green;">Шаг первый: комиссия Steam</mark></h2>
+<h2 align="center">1️⃣ <mark style="color:green;">Step one: the Steam fee</mark></h2>
 
-#### Любой вывод начинается с продажи дропа на торговой площадке, и тут первая неизбежная потеря - **13% комиссии** с каждой продажи.
+#### Any cashout starts with selling the drop on the marketplace, and here's the first unavoidable loss — a **13% fee** on every sale.
 
 {% hint style="success" %}
-**Совет по времени.** Кейсы лучше сливать в начале недели, в понедельник-вторник. Ближе к выходным на рынок вываливается недельный дроп со всех ферм разом и цена проседает.
+**A timing tip.** It's better to dump cases at the start of the week, Monday–Tuesday. Closer to the weekend, the weekly drop from all farms hits the market at once and the price sags.
 {% endhint %}
 
-<h2 align="center">2️⃣ <mark style="color:green;">Шаг второй: выбор предмета под вывод</mark></h2>
+<h2 align="center">2️⃣ <mark style="color:green;">Step two: choosing an item to cash out</mark></h2>
 
-#### Если ты новичок - рассматривай **только ножи и перчатки**. Всё остальное требует опыта в оценке, а ошибка стоит денег.
+#### If you're a beginner — consider **only knives and gloves**. Everything else requires experience in appraisal, and a mistake costs money.
 
-### <mark style="color:blue;">❌ Чего избегать новичку</mark>
+### <mark style="color:blue;">❌ What a beginner should avoid</mark>
 
-#### **Предметы со StatTrak™.** Менее ликвидны, сложнее оценивать, дольше продаются.
+#### **StatTrak™ items.** Less liquid, harder to appraise, slower to sell.
 
-#### **Непопулярные качества.** Например, «Поношенное» (Well-Worn) висит в продаже дольше остальных. Комбинация StatTrak™ + непопулярное качество - худший вариант для быстрого вывода.
+#### **Unpopular wears.** For example, "Well-Worn" sits on sale longer than the rest. The combination of StatTrak™ + an unpopular wear is the worst option for a fast cashout.
 
-### <mark style="color:blue;">✔️ На что смотреть</mark>
+### <mark style="color:blue;">✔️ What to look for</mark>
 
-#### Самые ходовые качества для ножей и перчаток - **«После полевых испытаний» (Field-Tested)** и **«Закалённое в боях» (Battle-Scarred)**. Стабильный спрос, быстрая продажа, без дополнительной уценки.
+#### The most in-demand wears for knives and gloves are **"Field-Tested"** and **"Battle-Scarred"**. Steady demand, quick sale, no extra markdown.
 
-<h2 align="center">3️⃣ <mark style="color:green;">Разбор на цифрах</mark></h2>
+<h2 align="center">3️⃣ <mark style="color:green;">A breakdown in numbers</mark></h2>
 
-#### Возьмём условный расчёт, чтобы было видно, куда уходят деньги:
+#### Let's take a hypothetical calculation so you can see where the money goes:
 
-1. #### Продали кейсов на **$179.45** по стиму. Минус комиссия 13% → на баланс приходит **$156.12**.
-2. #### На эти деньги ставим ордер и забираем нож.
-3. #### Выставляем нож на продажу за **$159.20**. Минус комиссия площадки 5% → **$151.24**.
-4. #### Минус комиссия на вывод (≈5% карта / ≈0.2% крипта) → **$143.68**.
+1. #### Sold cases for **$179.45** on Steam. Minus the 13% fee → **$156.12** lands on the balance.
+2. #### With that money you place an order and grab a knife.
+3. #### You put the knife up for sale at **$159.20**. Minus the marketplace's 5% fee → **$151.24**.
+4. #### Minus the cashout fee (≈5% card / ≈0.2% crypto) → **$143.68**.
 
-### <mark style="color:blue;">Итог</mark>
+### <mark style="color:blue;">Bottom line</mark>
 
-#### **Было по стиму:** $179.45
+#### **Was on Steam:** $179.45
 
-#### **Получили живыми:** $143.68
+#### **Got in cash:** $143.68
 
-#### **Потери:** $35.77, то есть около **20%**
+#### **Losses:** $35.77, or about **20%**
 
 {% hint style="info" %}
-Двадцать процентов потерь - это нормальный, рабочий результат для такого вывода. Полностью избежать комиссий невозможно, но правильный выбор предмета сводит их к минимуму. Если у тебя выходит 30% и больше - ты берёшь неликвид.
+Twenty percent in losses is a normal, working result for this kind of cashout. Avoiding fees entirely is impossible, but the right choice of item keeps them to a minimum. If you're coming out at 30% or more — you're taking illiquid stuff.
 {% endhint %}
 
-<h2 align="center">🧮 <mark style="color:green;">Про сами таблички</mark></h2>
+<h2 align="center">🧮 <mark style="color:green;">About the calculators themselves</mark></h2>
 
-#### Табличка - это сервис, который считает связки за тебя: показывает, какой предмет выгоднее взять на баланс Steam и где его продавать. Считать всё руками можно, но на объёме это превращается в отдельную работу.
+#### A calculator is a service that works out the chains for you: it shows which item is more profitable to take onto your Steam balance and where to sell it. You can do it all by hand, but at scale that turns into a separate job.
 
 {% hint style="success" %}
-**Лайфхак по подписке.** Большинство табличек продаются на срок в днях. Можно приостанавливать подписку между закупами и активировать её только тогда, когда реально садишься считать. Так оплаченные дни растягиваются на несколько недель.
+**A subscription lifehack.** Most calculators are sold for a period in days. You can pause the subscription between buys and activate it only when you actually sit down to calculate. That way the paid days stretch out over several weeks.
 {% endhint %}

@@ -1,75 +1,75 @@
-# Создание хранилок и сборщиков
+# Creating vaults and collectors
 
 <figure><img src="../.gitbook/assets/хранение-скинов.png" alt=""><figcaption></figcaption></figure>
 
-#### Разберём, чем аккаунт-сборщик отличается от аккаунта-хранилища. Это два разных инструмента, и путать их - дорого.
+#### Let's break down how a collector account differs from a vault account. These are two different tools, and confusing them is expensive.
 
 ***
 
-## ❗ Аккаунт-сборщик
+## ❗ Collector account
 
-#### Сборщик нужен, чтобы не светить свой основной аккаунт. На него стекается весь дроп с фермы, с него же ты продаёшь предметы и закупаешь то, что пойдёт на вывод.
+#### A collector is needed so you don't expose your main account. All the drop from the farm flows onto it, and from it you sell items and buy what's going toward cashout.
 
-#### Это рабочая лошадка. Он в постоянном контакте с фермой, а значит по нему в теории может прилететь. Именно поэтому на нём не должно лежать ничего, что жалко потерять.
+#### It's the workhorse. It's in constant contact with the farm, which means in theory it can get hit. That's exactly why it shouldn't hold anything you'd be sorry to lose.
 
-## ❗ Аккаунт-хранилище
+## ❗ Vault account
 
-#### Хранилка нужна только в одном случае - **если ты уходишь в долгосрочные инвестиции в предметы**. Её задача - максимально изолировать вложения от любых рисков.
+#### A vault is only needed in one case — **if you go into long-term investments in items**. Its job is to isolate the investment from any risk as much as possible.
 
 {% hint style="danger" %}
-Этот аккаунт не используется **НИГДЕ**. Никаких транзакций с фермой, никаких контактов со сборщиком напрямую, никакой торговли на площадке. Он просто лежит и хранит.
+This account is used **NOWHERE**. No transactions with the farm, no direct contact with the collector, no trading on the marketplace. It just sits there and stores.
 {% endhint %}
 
-#### Держать его лучше на **отдельном устройстве** - старый ноутбук вполне подойдёт. На основной ПК ты постоянно качаешь софт, часть которого рано или поздно окажется не тем, чем казалась. Доступ к хранилке на этой же машине - вопрос времени.
+#### It's better to keep it on a **separate device** — an old laptop will do fine. On your main PC you're constantly downloading software, some of which will sooner or later turn out to be not what it seemed. Access to the vault on that same machine is a matter of time.
 
-#### Логика простая: занёс условные 2000$, через несколько лет портфель вырос в несколько раз. И вот тут выясняется, что за эти годы аккаунт можно было потерять двадцатью разными способами. Час на нормальную настройку защиты сейчас стоит дешевле, чем весь портфель потом.
+#### The logic is simple: you put in a hypothetical $2000, and a few years later the portfolio has grown several times over. And that's when it turns out that over those years the account could have been lost twenty different ways. An hour of proper security setup now costs less than the whole portfolio later.
 
 ***
 
-<h2 align="center">🛠️ <mark style="color:green;">Регистрация аккаунта-хранилища</mark></h2>
+<h2 align="center">🛠️ <mark style="color:green;">Registering a vault account</mark></h2>
 
-### <mark style="color:blue;">1️⃣ Почта</mark>
+### <mark style="color:blue;">1️⃣ Email</mark>
 
-#### Только трастовые домены - Gmail, Outlook. Никаких ноунейм-доменов и никаких почт из фермерских баз. На этом аккаунте экономить нельзя вообще ни на чём.
+#### Only trusted domains — Gmail, Outlook. No no-name domains and no emails from farm databases. On this account you can't cut corners on anything at all.
 
-### <mark style="color:blue;">2️⃣ Регистрация</mark>
+### <mark style="color:blue;">2️⃣ Registration</mark>
 
-#### Регистрируем обычным способом, [как описано раньше](../akkaunty/sozdanie-akkauntov.md).
+#### Register the normal way, [as described earlier](../akkaunty/sozdanie-akkauntov.md).
 
 {% hint style="warning" %}
-**Записывается ВСЯ информация.**
+**ALL the information is written down.**
 
-1. **Первое пополнение баланса** - гифт-код сохраняем целиком, при пополнении через банк сохраняем чек. Запоминаем дату. Первое письмо с почты тоже лучше не удалять.
-2. **Каждая активированная ключом игра** - записываем название и сам ключ.
+1. **The first balance top-up** — save the gift code in full; for a bank top-up save the receipt. Remember the date. It's also better not to delete the first email from your mailbox.
+2. **Every game activated with a key** — write down the name and the key itself.
 
-Этих данных хватит, чтобы доказать поддержке, что владелец аккаунта - ты, если его взломают или прилетит красная табличка. Без них разговор с поддержкой будет коротким.
+This data is enough to prove to support that you're the account owner if it gets hacked or a red banner arrives. Without it, the conversation with support will be short.
 {% endhint %}
 
-### <mark style="color:blue;">3️⃣ Оформление профиля</mark>
+### <mark style="color:blue;">3️⃣ Profile setup</mark>
 
-#### Профиль оформляем максимально по-человечески: аватарка, имя, несколько игр в библиотеке, уровень прокачан карточками. Всё должно выглядеть как обычный профиль обычного человека.
+#### Set up the profile as human-looking as possible: avatar, name, a few games in the library, level pumped up with cards. Everything should look like the ordinary profile of an ordinary person.
 
-### <mark style="color:blue;">4️⃣ Разблокировка торговой площадки</mark>
+### <mark style="color:blue;">4️⃣ Unlocking the marketplace</mark>
 
-#### Активируем гифт-код на **5.00$** - именно эта сумма снимает ограничение на доступ к торговой площадке.
+#### Activate a gift code for **$5.00** — this exact amount lifts the restriction on marketplace access.
 
-**Взять код можно у меня** ➙ [**Haisa Shop | Всё для Фермы**](https://t.me/haisacs)
+**You can get a code from me** ➙ [**Haisa Shop | Everything for the Farm**](https://t.me/haisacs)
 
-### <mark style="color:blue;">5️⃣ Общая концепция</mark>
+### <mark style="color:blue;">5️⃣ The general concept</mark>
 
-#### Аккаунт живёт как профиль обычного пользователя Steam, который просто не играет в CS2. Всё.
+#### The account lives like the profile of a regular Steam user who simply doesn't play CS2. That's it.
 
-### <mark style="color:blue;">6️⃣ Активность</mark>
+### <mark style="color:blue;">6️⃣ Activity</mark>
 
-#### Для естественности - пара игр в библиотеке, несколько достижений, может быть пара обзоров. Не переусердствуй, но и мёртвой пустышкой оставлять не стоит.
+#### For naturalness — a couple of games in the library, a few achievements, maybe a couple of reviews. Don't overdo it, but don't leave it a dead husk either.
 
-### <mark style="color:blue;">7️⃣ Безопасность</mark>
+### <mark style="color:blue;">7️⃣ Security</mark>
 
-* #### Уникальный надёжный пароль, который **больше нигде не используется**.
-* #### Пароль не передаётся никому. Вообще никому.
-* #### Steam Guard обязателен. Без него всё остальное бессмысленно.
-* #### Заходим **только через браузер**. Через клиент Steam - исключительно с отдельного устройства, никак не связанного с фермой.
+* #### A unique, strong password that's **used nowhere else**.
+* #### The password is given to no one. No one at all.
+* #### Steam Guard is mandatory. Without it, everything else is pointless.
+* #### Log in **only through a browser**. Through the Steam client — exclusively from a separate device with no connection to the farm whatsoever.
 
 {% hint style="info" %}
-Некоторые ещё принципиально заходят с разных IP. Я этим не занимаюсь - банов за IP на хранилках я не видел ни разу. Но если тебе так спокойнее, хуже точно не станет.
+Some people also log in from different IPs on principle. I don't bother with that — I've never once seen a vault get banned over IP. But if it makes you calmer, it definitely won't hurt.
 {% endhint %}

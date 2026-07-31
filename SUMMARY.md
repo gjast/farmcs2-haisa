@@ -1,48 +1,48 @@
 # Table of contents
 
-* [👨‍🌾 Ферма в CS2](README.md)
+* [👨‍🌾 Farming in CS2](README.md)
 
-## 🌾 Создание фермы и нюансы
+## 🌾 Setting up a farm and the nuances
 
-* [Что вообще можно фармить в CS2?](ferma-i-nyuansy/chto-mozhno-farmit.md)
-* [Фарм кейсов](ferma-i-nyuansy/farm-keisov.md)
-* [Фарм Armory Pass](ferma-i-nyuansy/farm-armory-pass.md)
+* [What can you actually farm in CS2?](ferma-i-nyuansy/chto-mozhno-farmit.md)
+* [Farming cases](ferma-i-nyuansy/farm-keisov.md)
+* [Farming the Armory Pass](ferma-i-nyuansy/farm-armory-pass.md)
 
-## 🖥️ Компьютеры для фермы
+## 🖥️ Computers for the farm
 
-* [Минимальные / Рекомендуемые сборки для FSM](kompyutery/sborki.md)
-* [Мои компьютеры](kompyutery/moi-kompyutery.md)
+* [Minimum / Recommended builds for FSM](kompyutery/sborki.md)
+* [My computers](kompyutery/moi-kompyutery.md)
 
-## 👤 Создание аккаунтов
+## 👤 Creating accounts
 
-* [Создание аккаунтов](akkaunty/sozdanie-akkauntov.md)
-* [Привязка SDA](akkaunty/privyazka-sda.md)
-* [Прогрев аккаунтов](akkaunty/progrev-akkauntov.md)
+* [Creating accounts](akkaunty/sozdanie-akkauntov.md)
+* [Linking SDA](akkaunty/privyazka-sda.md)
+* [Warming up accounts](akkaunty/progrev-akkauntov.md)
 
-## 🎛️ Панель для фарма
+## 🎛️ Farming panel
 
-* [Какую панель выбрать?](panel/kakuyu-panel-vybrat.md)
-* [Настройка панели](panel/nastroika-paneli.md)
-* [Частые проблемы и решения](panel/chastye-problemy.md)
+* [Which panel to choose?](panel/kakuyu-panel-vybrat.md)
+* [Panel setup](panel/nastroika-paneli.md)
+* [Common problems and fixes](panel/chastye-problemy.md)
 
-## 📦 Дроп
+## 📦 Drop
 
-* [Создание хранилок и сборщиков](drop/khranilki-i-sborshiki.md)
-* [Моментальный вывод дропа](drop/momentalnyi-vyvod.md)
-* [Вывод через таблички](drop/vyvod-cherez-tablichki.md)
+* [Creating vaults and collectors](drop/khranilki-i-sborshiki.md)
+* [Instant drop cashout](drop/momentalnyi-vyvod.md)
+* [Cashing out via calculators](drop/vyvod-cherez-tablichki.md)
 
-## 🧰 Программы для фермера
+## 🧰 Programs for the farmer
 
 * [\[ASF\] ArchiSteamFarm](programmy/asf.md)
 * [\[SDA\] Steam Desktop Authenticator](programmy/sda.md)
 * [\[Manager Standard\] Account Manager & Activity Booster](programmy/manager-standard.md)
 
-## 🎓 Наставничество по ферме
+## 🎓 Farm mentorship
 
-* [Открой свою ферму под моим наставничеством](nastavnichestvo/zapusk-fermy.md)
-* [Отфарм аккаунтов подписчиков](nastavnichestvo/otfarm-akkauntov.md)
+* [Open your own farm under my mentorship](nastavnichestvo/zapusk-fermy.md)
+* [Farming subscribers' accounts](nastavnichestvo/otfarm-akkauntov.md)
 
-## 🛒 Магазин для фермера
+## 🛒 Shop for the farmer
 
-* [Магазин «Всё для Фермы»](magazin/magazin.md)
-* [Активация кодов](magazin/aktivaciya-kodov.md)
+* [The "Everything for the Farm" shop](magazin/magazin.md)
+* [Activating codes](magazin/aktivaciya-kodov.md)

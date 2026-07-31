@@ -1,50 +1,50 @@
-# Фарм кейсов
+# Farming cases
 
 <figure><img src="../.gitbook/assets/фарм-кейсов.jpg" alt=""><figcaption></figcaption></figure>
 
-<h2 align="center">🍀 <mark style="color:green;">Как устроен заработок на праймах</mark></h2>
+<h2 align="center">🍀 <mark style="color:green;">How earning on Primes works</mark></h2>
 
-#### Раз в неделю аккаунт с прайм-статусом получает награду за повышение звания. Что именно упадёт - лотерея: может прилететь граффити за три рубля, а может скин, который уйдёт за несколько тысяч. Ты не влияешь на результат, ты влияешь только на количество аккаунтов, которые в этой лотерее участвуют.
-
-{% hint style="success" %}
-**Где подвох?**
-
-Прайм-статус стоит около **15$**, и его надо купить до того, как аккаунт начнёт что-то приносить. Один аккаунт - это не бизнес, это эксперимент. Реальные фермы - это десятки, сотни и тысячи аккаунтов, и все они требуют вложений на старте.
-{% endhint %}
-
-<h2 align="center">🧩 <mark style="color:green;">Какие кейсы падают</mark></h2>
-
-#### После того как Valve убрали кейсы редкого дропа, список выпадаемого заметно похудел. Сейчас из недельной награды реально прилетают кейсы актуального пула - их состав Valve периодически меняет, поэтому перед закупом всегда сверяйся с рынком, а не с гайдом трёхмесячной давности.
-
-{% hint style="warning" %}
-Цены на кейсы гуляют. То, что сегодня стоит 2$, через месяц может стоить 0.6$ - и наоборот. Считай окупаемость по текущему рынку, а не по хайповым цифрам из чужих постов.
-{% endhint %}
-
-<h2 align="center">🧶 <mark style="color:green;">Какие скины могут упасть</mark></h2>
-
-#### Кроме кейсов падают скины на оружие. Всего пять уровней редкости:
-
-* #### <mark style="color:$info;">Ширпотреб</mark>
-* #### <mark style="color:blue;">Промышленное качество</mark>
-* #### <mark style="color:$primary;">Армейское качество</mark>
-* #### <mark style="color:purple;">Запрещённое</mark>
-* #### <mark style="color:$danger;">Засекреченное</mark>
+#### Once a week an account with Prime status gets a reward for ranking up. What exactly drops is a lottery: you might get graffiti worth a few cents, or a skin that sells for a few thousand. You don't control the result — you only control the number of accounts taking part in that lottery.
 
 {% hint style="success" %}
-Важный момент, который постоянно упускают: в недельный дроп попадают **только скины из коллекций карт**. Скины из кейсовых коллекций получить можно исключительно открытием кейса ключом - из обычного дропа они не падают никогда.
+**Where's the catch?**
+
+Prime status costs about **$15**, and you have to buy it before the account brings in anything. One account isn't a business, it's an experiment. Real farms are dozens, hundreds and thousands of accounts, and every one of them needs an upfront investment.
 {% endhint %}
 
-<h2 align="center">💰 <mark style="color:green;">Считаем на пальцах</mark></h2>
+<h2 align="center">🧩 <mark style="color:green;">Which cases drop</mark></h2>
 
-#### Возьмём условную ферму. Прайм на аккаунт - примерно 15$. Средний недельный дроп - величина плавающая, и именно её надо мерить на своей ферме, а не брать из чужих скринов. Дальше арифметика простая:
-
-1. #### Считаешь средний дроп с одного аккаунта за неделю.
-2. #### Умножаешь на количество аккаунтов.
-3. #### Вычитаешь 13% комиссии Steam и расходы на подписку панели, электричество, прокси.
-4. #### Делишь вложения на чистую недельную прибыль - получаешь срок окупаемости в неделях.
+#### After Valve removed rare-drop cases, the list of what can fall got noticeably thinner. Right now the weekly reward realistically drops cases from the current pool — Valve changes its makeup from time to time, so before buying always check against the market, not against a guide from three months ago.
 
 {% hint style="warning" %}
-В расчёт **обязательно** закладывай смертность аккаунтов. Ферма, которая окупается ровно к моменту следующей волны банов - это ферма, которая работает в ноль. Хорошая модель - та, что окупается с запасом.
+Case prices swing. What costs $2 today might cost $0.60 a month from now — and vice versa. Calculate payback against the current market, not against hype numbers from someone else's posts.
 {% endhint %}
 
-<h3 align="center"><a href="https://t.me/fermabezviebonov"><mark style="color:green;"><strong>Свежие цифры и разборы волн - в канале</strong></mark></a></h3>
+<h2 align="center">🧶 <mark style="color:green;">Which skins can drop</mark></h2>
+
+#### Besides cases, weapon skins drop too. Five rarity tiers in total:
+
+* #### <mark style="color:$info;">Consumer Grade</mark>
+* #### <mark style="color:blue;">Industrial Grade</mark>
+* #### <mark style="color:$primary;">Mil-Spec</mark>
+* #### <mark style="color:purple;">Restricted</mark>
+* #### <mark style="color:$danger;">Classified</mark>
+
+{% hint style="success" %}
+A key point people constantly miss: the weekly drop only includes **skins from the map collections**. Skins from case collections can only be obtained by opening a case with a key — they never drop from the regular reward.
+{% endhint %}
+
+<h2 align="center">💰 <mark style="color:green;">Doing the napkin math</mark></h2>
+
+#### Let's take a hypothetical farm. Prime per account — about $15. The average weekly drop is a moving number, and that's exactly what you have to measure on your own farm instead of taking it from someone else's screenshots. After that the arithmetic is simple:
+
+1. #### Calculate the average drop from one account per week.
+2. #### Multiply by the number of accounts.
+3. #### Subtract the 13% Steam fee and the cost of the panel subscription, electricity and proxies.
+4. #### Divide your investment by the net weekly profit — that gives the payback period in weeks.
+
+{% hint style="warning" %}
+You **must** factor account mortality into the calculation. A farm that pays off exactly by the time of the next ban wave is a farm that runs at zero. A good model is one that pays off with a buffer.
+{% endhint %}
+
+<h3 align="center"><a href="https://t.me/fermabezviebonov"><mark style="color:green;"><strong>Fresh numbers and wave breakdowns — in the channel</strong></mark></a></h3>

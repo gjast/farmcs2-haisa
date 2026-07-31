@@ -1,54 +1,54 @@
-# Отфарм аккаунтов подписчиков
+# Farming subscribers' accounts
 
 <figure><img src="../.gitbook/assets/наставничество.png" alt=""><figcaption></figcaption></figure>
 
-<h2 align="center">🌾 <mark style="color:green;">О чём речь</mark></h2>
+<h2 align="center">🌾 <mark style="color:green;">What this is about</mark></h2>
 
 {% hint style="success" %}
-Вариант для тех, у кого **уже есть аккаунты** на руках, но нет мощностей, времени или желания держать ПК включённым круглосуточно. Ты отдаёшь аккаунты - я их фармлю на своих машинах, дроп уходит по твоей трейд-ссылке или же могу выплачивать тебе напрямую, я забираю процент.
+An option for those who **already have accounts** in hand but don't have the hardware, the time or the desire to keep a PC running around the clock. You hand over the accounts — I farm them on my own machines, the drop goes to your trade link, or I can pay you directly, and I take a percentage.
 {% endhint %}
 
-#### ❗ Прочитай всё ниже целиком, не пробегая глазами. Это в твоих же интересах - потом не будет вопросов «а я думал, что...».
+#### ❗ Read everything below in full, don't skim. It's in your own interest — so there won't be any "but I thought that..." later.
 
 ***
 
-<h2 align="center">⚙️ <mark style="color:green;">Как происходит фарм</mark></h2>
+<h2 align="center">⚙️ <mark style="color:green;">How the farming happens</mark></h2>
 
-#### **Панель:** [DM Panel](https://t.me/dmpanelsbot?start=6810487864)
+#### **Panel:** [DM Panel](https://t.me/dmpanelsbot?start=6810487864)
 
-#### **Режим:** DM
+#### **Mode:** DM
 
-#### Фарм идёт на моём железе, под моим присмотром. Автосбор дропа включён, отправка идёт по твоей трейд-ссылке - то есть предметы физически не задерживаются у меня.
+#### The farming runs on my hardware, under my supervision. Auto-collect of the drop is on, and sending goes to your trade link — meaning the items don't physically stay with me.
 
 ***
 
-<h2 align="center">🎯 <mark style="color:green;">Условия по проценту</mark></h2>
+<h2 align="center">🎯 <mark style="color:green;">Percentage terms</mark></h2>
 
 {% hint style="info" %}
-Процент зависит от количества аккаунтов: чем больше пачка, тем ниже ставка.
+The percentage depends on the number of accounts: the bigger the batch, the lower the rate.
 {% endhint %}
 
-### <mark style="color:blue;">📌 Публичная панель</mark>
+### <mark style="color:blue;">📌 Public panel</mark>
 
-#### ➕ Автосбор дропа + отправка по твоей трейд-ссылке
+#### ➕ Auto-collect of the drop + sending to your trade link
 
-* #### От 20 до 49 аккаунтов - **30%**
-* #### От 50 до 99 аккаунтов - **29%**
-* #### От 100 аккаунтов - **28%**
+* #### From 20 to 49 accounts — **30%**
+* #### From 50 to 99 accounts — **29%**
+* #### From 100 accounts — **28%**
 
 ***
 
-<h2 align="center">📋 <mark style="color:green;">Требования к аккаунтам</mark></h2>
+<h2 align="center">📋 <mark style="color:green;">Account requirements</mark></h2>
 
-#### Чтобы аккаунт взяли в работу, он должен:
+#### For an account to be taken on, it must:
 
-* #### Иметь **прайм-статус**
-* #### Иметь **maFile** и **R-код**
-* #### Не быть в трейд-бане и не сидеть в ограничении после привязки SDA
-* #### Не иметь VAC и активных ограничений в CS2
+* #### Have **Prime status**
+* #### Have a **maFile** and an **R-code**
+* #### Not be in a trade ban and not be sitting in the restriction after linking SDA
+* #### Have no VAC and no active restrictions in CS2
 
 {% hint style="warning" %}
-**Что я не гарантирую.** Я не гарантирую, что аккаунты переживут волну банов. Никто этого не гарантирует, и человек, который тебе такое обещает, врёт. Я гарантирую только честный фарм и честную отправку дропа/денег.
+**What I don't guarantee.** I don't guarantee that the accounts will survive a ban wave. Nobody guarantees that, and anyone who promises you that is lying. I only guarantee honest farming and honest sending of the drop/money.
 {% endhint %}
 
-<h3 align="center">Обсудить условия ➙ <a href="https://t.me/jjjyhhff"><mark style="color:green;">TGLink</mark></a></h3>
+<h3 align="center">Discuss the terms ➙ <a href="https://t.me/jjjyhhff"><mark style="color:green;">TGLink</mark></a></h3>

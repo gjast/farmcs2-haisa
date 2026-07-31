@@ -1,77 +1,77 @@
-# Создание аккаунтов
+# Creating accounts
 
-<h2 align="center">📬 <mark style="color:green;">Сначала про почты</mark></h2>
+<h2 align="center">📬 <mark style="color:green;">First, about emails</mark></h2>
 
 <figure><img src="../.gitbook/assets/почты.png" alt=""><figcaption></figcaption></figure>
 
-#### Домен почты может быть любым, но с одним условием: он должен быть распространённым и публичным. Малоизвестные почтовики и самописные домены - красный флаг, по ним прилетает первыми.
+#### The email domain can be anything, but with one condition: it has to be common and public. Obscure mail providers and custom domains are a red flag — they get hit first.
 
-#### Отдельно: не используй домены, которые в комьюнити давно ассоциируются исключительно с фермами. По ним уже проходили точечные волны, и повторится это ещё не раз.
+#### Separately: don't use domains that the community has long associated exclusively with farms. Targeted waves have already gone through those, and it'll happen again more than once.
 
 {% hint style="success" %}
-Готовые почты обычно дешевле и быстрее, чем регать руками. Если берёшь на сервисах - бери верхний тариф, дешёвые пачки Steam выкашивает через несколько недель, и ты остаёшься без доступа к восстановлению.
+Ready-made emails are usually cheaper and faster than registering by hand. If you buy them from services — go for the top tier; Steam mows down cheap batches within a few weeks, and you're left with no access to recovery.
 {% endhint %}
 
-#### Отдельная фишка для Gmail: точки в адресе Steam считает разными адресами. `mymail@gmail.com`, `my.mail@gmail.com`, `m.y.mail@gmail.com` - для Steam это три разные почты, а письма падают в один ящик.
+#### A separate trick for Gmail: Steam treats dots in the address as different addresses. `mymail@gmail.com`, `my.mail@gmail.com`, `m.y.mail@gmail.com` — to Steam these are three different emails, while the messages all land in one inbox.
 
 ***
 
-<h2 align="center">📗 <mark style="color:green;">Перед тем как регать</mark></h2>
+<h2 align="center">📗 <mark style="color:green;">Before you register</mark></h2>
 
 {% hint style="warning" %}
-**Определись со способом пополнения заранее.**
+**Decide on your funding method in advance.**
 
-Если планируешь пополнять баланс **гифт-кодами** - регион можно будет поменять позже, в момент активации кода.
+If you plan to top up the balance with **gift codes** — you can change the region later, at the moment you activate the code.
 
-Если планируешь пополнять **напрямую по логину через банк** - регион фиксируется на этапе регистрации, и переиграть его потом не выйдет. Ставишь VPN нужной страны **до** регистрации.
+If you plan to top up **directly via bank login** — the region is fixed at the registration stage, and you won't be able to redo it afterwards. Set a VPN of the country you need **before** registering.
 
-Стоимость прайма по регионам отличается в разы. Актуальные цены смотри на [SteamDB](https://steamdb.info/).
+Prime prices differ several times over by region. Check current prices on [SteamDB](https://steamdb.info/).
 {% endhint %}
 
-<h2 align="center">🧾 <mark style="color:green;">Регистрация по шагам</mark></h2>
+<h2 align="center">🧾 <mark style="color:green;">Registration step by step</mark></h2>
 
-### <mark style="color:blue;">1. Заходим в гостевой режим браузера</mark>
+### <mark style="color:blue;">1. Open the browser's guest mode</mark>
 
 {% hint style="success" %}
-**Зачем гостевой режим?** Он не тянет данные основного профиля и стирает всё после закрытия окна. Не надо чистить куки, не надо каждый раз настраивать профили в антидетекте - открыл, зарегал, закрыл.
+**Why guest mode?** It doesn't pull data from your main profile and wipes everything after you close the window. No need to clear cookies, no need to set up profiles in an antidetect browser every time — open, register, close.
 {% endhint %}
 
-### <mark style="color:blue;">2. Идём на официальную страницу регистрации Steam</mark>
+### <mark style="color:blue;">2. Go to Steam's official registration page</mark>
 
-#### Регистрируем как обычный аккаунт, ничего экзотического.
+#### Register as a normal account, nothing exotic.
 
 {% hint style="info" %}
-Пароли запомнить нереально, поэтому сразу делай надёжный пароль и **записывай его** в .txt или таблицу. Логин, пароль, почта - три колонки. При массовой регистрации потом просто копируешь оттуда.
+It's impossible to remember passwords, so make a strong password right away and **write it down** in a .txt file or a spreadsheet. Login, password, email — three columns. During mass registration you then just copy from there.
 {% endhint %}
 
-### <mark style="color:blue;">3. Никнейм и оформление профиля</mark>
+### <mark style="color:blue;">3. Nickname and profile setup</mark>
 
-#### Сразу после регистрации даём аккаунту ник, аватарку и минимальное оформление.
+#### Right after registration, give the account a nickname, an avatar and minimal setup.
 
-* #### Не делай ники вида `farm_acc_1`, `haisa001` и подобное - это подпись «я ферма» прямо в профиле.
-* #### Не делай ник равным логину.
-* #### Если фантазии нет - попроси нейронку выдать полсотни ников, возьми персонажей из фильмов, аниме, чего угодно.
+* #### Don't make nicknames like `farm_acc_1`, `haisa001` and so on — that's a "I'm a farm" signature right in the profile.
+* #### Don't make the nickname the same as the login.
+* #### If you're out of ideas — ask an AI for fifty nicknames, take characters from movies, anime, whatever.
 
-### <mark style="color:blue;">4. Привязываем Steam Guard через SDA</mark>
+### <mark style="color:blue;">4. Link Steam Guard via SDA</mark>
 
-#### Сразу после регистрации добавляем аккаунт в **Steam Desktop Authenticator**. Важно делать это **с того же IP**, с которого регистрировали - иначе есть шанс словить блок.
+#### Right after registration, add the account to **Steam Desktop Authenticator**. It's important to do this **from the same IP** you registered from — otherwise there's a chance of getting blocked.
 
-<h3 align="center"><a href="privyazka-sda.md"><mark style="color:purple;"><strong>Инструкция по SDA →</strong></mark></a></h3>
+<h3 align="center"><a href="privyazka-sda.md"><mark style="color:purple;"><strong>SDA instructions →</strong></mark></a></h3>
 
 ***
 
-<h2 align="center">🛡️ <mark style="color:green;">Как не словить бан на этапе регистрации</mark></h2>
+<h2 align="center">🛡️ <mark style="color:green;">How to avoid a ban at the registration stage</mark></h2>
 
 {% hint style="info" %}
-После каждых 4–5 аккаунтов меняй IP. Самый простой способ: включил на телефоне режим «В самолёте», закрыл гостевое окно, выключил режим полёта, раздал заново - новый адрес. Это снимает лимиты на регистрацию и заметно снижает процент автоблокировок.
+After every 4–5 accounts, change your IP. The simplest way: turn on airplane mode on your phone, close the guest window, turn airplane mode off, share the connection again — new address. This lifts registration limits and noticeably lowers the auto-block rate.
 {% endhint %}
 
-#### Второе правило - не гони. Пятьдесят аккаунтов, зарегистрированных за час с одного адреса, выглядят ровно как то, чем являются. Растяни процесс.
+#### The second rule — don't rush. Fifty accounts registered in an hour from one address look exactly like what they are. Stretch the process out.
 
-<h2 align="center">✨ <mark style="color:green;">Финальные штрихи</mark></h2>
+<h2 align="center">✨ <mark style="color:green;">Final touches</mark></h2>
 
-#### Когда нужное количество набрано, закидываем всё в [**ASF**](../programmy/asf.md), чтобы разом:
+#### Once you've got the number you need, drop everything into [**ASF**](../programmy/asf.md) to, all at once:
 
-* #### проставить аватарки
-* #### поменять никнеймы
-* #### запустить автосбор карточек (прогрев)
+* #### set avatars
+* #### change nicknames
+* #### launch auto card collecting (warming up)

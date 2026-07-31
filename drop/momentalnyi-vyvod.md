@@ -1,39 +1,39 @@
-# Моментальный вывод дропа
+# Instant drop cashout
 
 <figure><img src="../.gitbook/assets/вывод-средств.png" alt=""><figcaption></figcaption></figure>
 
-<h2 align="center">💵 <mark style="color:green;">Суть способа</mark></h2>
+<h2 align="center">💵 <mark style="color:green;">The gist of the method</mark></h2>
 
-#### Ты продаёшь предметы напрямую на сторонней площадке и получаешь деньги на карту или крипту, минуя баланс Steam. Быстро, просто, без плясок с ордерами.
+#### You sell items directly on a third-party marketplace and get money to a card or crypto, bypassing the Steam balance. Fast, simple, no dancing around with orders.
 
-#### Платишь за это процентом: площадка выкупает дешевле рынка. Зато не надо ничего считать и никуда перегонять.
+#### You pay for that with a percentage: the marketplace buys below market. In return, you don't have to calculate anything or move anything anywhere.
 
-<h2 align="center">📋 <mark style="color:green;">Как это делается</mark></h2>
+<h2 align="center">📋 <mark style="color:green;">How it's done</mark></h2>
 
-1. #### Заходим на площадку **с аккаунта-сборщика**, не с основного.
-2. #### Выбираем предметы, которые хотим продать.
-3. #### Выбираем способ вывода и **внимательно сверяем реквизиты** - куда именно уходят деньги.
-4. #### Подтверждаем, отправляем предметы.
-5. #### Ждём срок Trade Protection - сейчас это **8 дней**.
-6. #### Получаем деньги.
+1. #### Go to the marketplace **from the collector account**, not the main one.
+2. #### Select the items you want to sell.
+3. #### Choose the cashout method and **carefully double-check the details** — exactly where the money is going.
+4. #### Confirm, send the items.
+5. #### Wait out the Trade Protection period — currently **8 days**.
+6. #### Get the money.
 
 {% hint style="warning" %}
-**Про Trade Protection.** Valve ввели защиту обменов, и предметы теперь висят восемь дней, прежде чем окончательно уйдут. Это не косяк площадки - так работает у всех. Планируй вывод с учётом этой задержки, а не «мне нужны деньги сегодня».
+**About Trade Protection.** Valve introduced trade protection, and items now hang for eight days before they finally leave. This isn't a bug on the platform — it works this way for everyone. Plan your cashout with this delay in mind, not around "I need the money today".
 {% endhint %}
 
-<h2 align="center">⚖️ <mark style="color:green;">Когда этот способ оправдан</mark></h2>
+<h2 align="center">⚖️ <mark style="color:green;">When this method makes sense</mark></h2>
 
-#### **Подходит, если:**
+#### **Works if:**
 
-* #### Нужны деньги на руках без лишних телодвижений.
-* #### Сумма небольшая и возиться с ордерами не окупается по времени.
-* #### Ты не хочешь держать средства внутри Steam.
+* #### You need cash in hand without extra hassle.
+* #### The amount is small and fiddling with orders isn't worth the time.
+* #### You don't want to keep funds inside Steam.
 
-#### **Не подходит, если:**
+#### **Doesn't work if:**
 
-* #### Выводишь крупную сумму - на объёме разница в процентах становится ощутимой.
-* #### Готов потратить время и вывести выгоднее через [таблички](vyvod-cherez-tablichki.md).
+* #### You're cashing out a large amount — at scale the difference in percentages becomes noticeable.
+* #### You're willing to spend the time and cash out more profitably via [calculators](vyvod-cherez-tablichki.md).
 
 {% hint style="success" %}
-**Про выбор площадки.** Проверяй репутацию перед первым выводом и **никогда** не отправляй крупную партию первой сделкой. Прогони маленькую сумму, убедись что деньги дошли, и только потом заводи объём.
+**About choosing a marketplace.** Check the reputation before your first cashout and **never** send a large batch as your first deal. Run a small amount through, make sure the money arrived, and only then bring in volume.
 {% endhint %}

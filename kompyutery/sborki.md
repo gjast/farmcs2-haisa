@@ -1,60 +1,59 @@
-# Минимальные / Рекомендуемые сборки
+# Minimum / Recommended builds
 
 <figure><img src="../.gitbook/assets/требования-к-пк.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Что такое «поток»?** Это одна пачка аккаунтов, которую машина прокручивает за неделю. Один поток ≈ 160 аккаунтов, два потока ≈ 320. Цифры ориентировочные и зависят от режима и панели.
+**What is a "stream"?** It's one batch of accounts the machine cycles through in a week. One stream ≈ 160 accounts, two streams ≈ 320. The numbers are approximate and depend on the mode and the panel.
 {% endhint %}
 
-<h2 align="center">⚠️ <mark style="color:green;">Минимальные требования</mark></h2>
+<h2 align="center">⚠️ <mark style="color:green;">Minimum requirements</mark></h2>
 
-### <mark style="color:blue;">Один поток фарма режима 2х2 (≈160 аккаунтов в неделю)</mark>
+### <mark style="color:blue;">One stream of 2v2 farming (≈160 accounts per week)</mark>
 
-* #### **CPU** - Intel Core i5-10400F / AMD Ryzen 5 2600 / Xeon E5-2680 v3
-* #### **RAM** - 16 GB
-* #### **SSD** - 50 GB свободного места под файл подкачки
-* #### **GPU** - GeForce GT 1030 DDR5
+* #### **CPU** — Intel Core i5-10400F / AMD Ryzen 5 2600 / Xeon E5-2680 v3
+* #### **RAM** — 16 GB
+* #### **SSD** — 50 GB free space for the pagefile
+* #### **GPU** — GeForce GT 1030 DDR5
 
-### <mark style="color:blue;">Два потока фарма режима 2х2 (≈320 аккаунтов в неделю)</mark>
+### <mark style="color:blue;">Two streams of 2v2 farming (≈320 accounts per week)</mark>
 
-* #### **CPU** - Intel Core i5-12400F / AMD Ryzen 5 5600X / Xeon E5-2696 v3
-* #### **RAM** - 32 GB
-* #### **SSD** - 80 GB свободного места под файл подкачки
-* #### **GPU** - GeForce GTX 1060 3 GB
+* #### **CPU** — Intel Core i5-12400F / AMD Ryzen 5 5600X / Xeon E5-2696 v3
+* #### **RAM** — 32 GB
+* #### **SSD** — 80 GB free space for the pagefile
+* #### **GPU** — GeForce GTX 1060 3 GB
 
 {% hint style="warning" %}
-Минималка - это именно минималка. Оно поедет, но будет фризить, ронять клиенты и жрать тебе нервы. Если есть возможность взять чуть выше - бери, окупится сэкономленным временем.
+Minimum means minimum. It'll run, but it'll stutter, drop clients and eat your nerves. If you can go a bit higher — do it, it pays off in saved time.
 {% endhint %}
 
-<h2 align="center">✅ <mark style="color:green;">Для стабильной работы</mark></h2>
+<h2 align="center">✅ <mark style="color:green;">For stable operation</mark></h2>
 
-### <mark style="color:blue;">Один поток фарма режима 2х2 (≈160 аккаунтов в неделю)</mark>
+### <mark style="color:blue;">One stream of 2v2 farming (≈160 accounts per week)</mark>
 
-* #### **CPU** - AMD Ryzen 5 3600
-* #### **RAM** - 20 GB
-* #### **GPU** - GTX 1050 Ti
-* #### **SSD** - M.2 на 256 GB
+* #### **CPU** — AMD Ryzen 5 3600
+* #### **RAM** — 20 GB
+* #### **GPU** — GTX 1050 Ti
+* #### **SSD** — 256 GB M.2
 
-### <mark style="color:blue;">Два потока фарма режима 2х2 (≈320 аккаунтов в неделю)</mark>
+### <mark style="color:blue;">Two streams of 2v2 farming (≈320 accounts per week)</mark>
 
-* #### **CPU** - AMD Ryzen 7 5700X
-* #### **RAM** - 40 GB
-* #### **GPU** - GTX 1060 6 GB
-* #### **SSD** - M.2 на 256 GB
+* #### **CPU** — AMD Ryzen 7 5700X
+* #### **RAM** — 40 GB
+* #### **GPU** — GTX 1060 6 GB
+* #### **SSD** — 256 GB M.2
 
-<h2 align="center"><strong>Это всё что касается фарма режима 2х2 на панели</strong> <a href="https://t.me/moonlighter_shop_bot?start=6810487864">FSM</a></h2>
+<h2 align="center"><strong>That's everything about farming 2v2 mode on the</strong> <a href="https://t.me/moonlighter_shop_bot?start=6810487864">FSM</a> <strong>panel</strong></h2>
 
-<h2 align="center">🔧 <mark style="color:green;">На что реально смотреть при сборке</mark></h2>
+<h2 align="center">🔧 <mark style="color:green;">What actually matters when building</mark></h2>
 
-#### **Оперативка.** Самое узкое место. Каждый запущенный клиент ест память, и когда её не хватает - система уходит в файл подкачки и всё встаёт. Экономить тут нельзя.
+#### **RAM.** The biggest bottleneck. Every running client eats memory, and when there isn't enough, the system falls into the pagefile and everything grinds to a halt. You can't cut corners here.
 
-#### **Диск.** Только SSD, желательно M.2. На HDD клиенты будут стартовать вечность, а файл подкачки убьёт диск за пару месяцев.
+#### **Disk.** SSD only, ideally M.2. On an HDD clients take forever to start, and the pagefile will kill the disk in a couple of months.
 
-#### **Видеокарта.** Особой мощности не надо, но она нужна - CS2 без видеоядра не запустится. Дешёвая карта из списка выше закрывает задачу полностью.
+#### **GPU.** You don't need much power, but you do need one — CS2 won't launch without a graphics core. A cheap card from the list above covers the task completely.
 
-#### **Интернет.** Про него все забывают, а он важнее видеокарты. Нужен стабильный канал и адекватный пинг. Мобильный интернет с плавающим соединением - прямой путь к вылетам посреди матчей.
+#### **Internet.** Everyone forgets about it, and it matters more than the GPU. You need a stable connection and a decent ping. Mobile internet with a floating connection is a direct path to crashing mid-match.
 
 {% hint style="success" %}
-**Про питание и охлаждение.** Машина будет работать сутками без выходных. Нормальный блок питания и продув корпуса - это не роскошь, а страховка от того, что ферма умрёт физически, а не от банов.
+**About power and cooling.** The machine will run around the clock with no days off. A proper power supply and airflow in the case aren't a luxury — they're insurance against the farm dying physically rather than from bans.
 {% endhint %}
-

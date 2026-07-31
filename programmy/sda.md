@@ -2,28 +2,28 @@
 
 <figure><img src="../.gitbook/assets/аккаунты.png" alt=""><figcaption></figcaption></figure>
 
-#### **Steam Desktop Authenticator** - это мобильный аутентификатор Steam, перенесённый на компьютер. Для фермы вещь обязательная: без него ты не сможешь автоматически подтверждать обмены, а значит дроп не уедет на сборщик.
+#### **Steam Desktop Authenticator** is Steam's mobile authenticator ported to the computer. For a farm it's a must-have: without it you can't automatically confirm trades, which means the drop won't leave for the collector.
 
-<h2 align="center">🔑 <mark style="color:green;">Что он даёт</mark></h2>
+<h2 align="center">🔑 <mark style="color:green;">What it gives you</mark></h2>
 
-* #### Коды двухфакторной авторизации прямо на ПК
-* #### Автоматическое подтверждение трейдов
-* #### **maFile** - файл с ключами аккаунта, который нужен панелям для работы
+* #### Two-factor authorization codes right on the PC
+* #### Automatic trade confirmation
+* #### The **maFile** — the file with the account's keys, which panels need to operate
 
 {% hint style="danger" %}
-**maFile = аккаунт.** Кто держит файл - тот управляет обменами. Никогда никому его не передавай и держи бэкап папки `maFiles` минимум в двух местах, одно из которых офлайн.
+**maFile = account.** Whoever holds the file controls the trades. Never give it to anyone, and keep a backup of the `maFiles` folder in at least two places, one of them offline.
 {% endhint %}
 
-<h2 align="center">📥 <mark style="color:green;">Установка и привязка</mark></h2>
+<h2 align="center">📥 <mark style="color:green;">Installation and linking</mark></h2>
 
-#### Подробная пошаговая инструкция вынесена в отдельную страницу:
+#### The detailed step-by-step guide is on a separate page:
 
-<h3 align="center"><a href="../akkaunty/privyazka-sda.md"><mark style="color:purple;"><strong>Привязка SDA - пошагово →</strong></mark></a></h3>
+<h3 align="center"><a href="../akkaunty/privyazka-sda.md"><mark style="color:purple;"><strong>Linking SDA — step by step →</strong></mark></a></h3>
 
-<h2 align="center">⚠️ <mark style="color:green;">Что чаще всего ломают</mark></h2>
+<h2 align="center">⚠️ <mark style="color:green;">What people break most often</mark></h2>
 
-* #### **Теряют R-код.** Revocation Code записывается сразу и хранится вечно. Без него аутентификатор не снять.
-* #### **Качают левые сборки.** Только официальный GitHub. Всё остальное - риск.
-* #### **Не бэкапят maFiles.** Умер диск - умерла ферма.
-* #### **Привязывают с другого IP.** Регистрировал с одного адреса, привязываешь с другого - есть шанс словить блок.
+* #### **They lose the R-code.** The Revocation Code is written down right away and kept forever. Without it you can't remove the authenticator.
+* #### **They download shady builds.** Official GitHub only. Everything else is a risk.
+* #### **They don't back up the maFiles.** The disk dies — the farm dies.
+* #### **They link from a different IP.** Registered from one address, linking from another — there's a chance of getting blocked.
 

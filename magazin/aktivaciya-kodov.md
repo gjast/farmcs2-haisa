@@ -1,36 +1,36 @@
-# Активация кодов
+# Activating codes
 
 <figure><img src="../.gitbook/assets/активация-кодов.png" alt=""><figcaption></figcaption></figure>
 
-#### Гифт-код - это код пополнения баланса Steam. Активируешь - на аккаунте появляется сумма, на которую покупаешь прайм, игру или что угодно ещё.
+#### A gift code is a Steam balance top-up code. You activate it — an amount appears on the account, which you use to buy Prime, a game or anything else.
 
-<h2 align="center">⚡ <mark style="color:green;">Зачем это фермеру</mark></h2>
+<h2 align="center">⚡ <mark style="color:green;">Why a farmer needs this</mark></h2>
 
-#### **Скорость.** Не надо гонять предметы между аккаунтами и ждать, пока что-то продастся. Активировал - сразу покупаешь прайм и ставишь аккаунт в панель.
+#### **Speed.** No need to shuffle items between accounts and wait for something to sell. Activated it — you immediately buy Prime and put the account into the panel.
 
-#### **Регион.** Регион фиксируется в момент активации кода, а не при регистрации. То есть аккаунт можно зарегать заранее, а страну выбрать позже - под ту, где прайм дешевле.
+#### **Region.** The region is fixed at the moment the code is activated, not at registration. That means you can register the account in advance and pick the country later — the one where Prime is cheaper.
 
-#### **Разблокировка торговой площадки.** Код на **5.00$** снимает ограничение и через неделю аккаунт может продавать предметы.
-
-***
-
-<h2 align="center">📋 <mark style="color:green;">Как купить и активировать</mark></h2>
-
-1. #### Пишешь мне в [личку](https://t.me/jjjyhhff) - сразу конкретикой: сколько кодов и на какую сумму.
-2. #### Получаешь реквизиты и оплачиваешь.
-3. #### Получаешь коды и **регион**, на котором их надо активировать.
-4. #### Ставишь VPN нужной страны, заходишь в Steam.
-5. #### Активируешь код - на балансе появляется сумма.
-6. #### Покупаешь прайм и ставишь аккаунт в работу.
+#### **Unlocking the marketplace.** A **$5.00** code lifts the restriction, and a week later the account can sell items.
 
 ***
 
-<h2 align="center">⚠️ <mark style="color:green;">Частые ошибки</mark></h2>
+<h2 align="center">📋 <mark style="color:green;">How to buy and activate</mark></h2>
+
+1. #### Message me in [DMs](https://t.me/jjjyhhff) — straight to the point: how many codes and for what amount.
+2. #### Get the payment details and pay.
+3. #### Get the codes and the **region** they need to be activated on.
+4. #### Set a VPN of the required country, log into Steam.
+5. #### Activate the code — the amount appears on the balance.
+6. #### Buy Prime and put the account to work.
+
+***
+
+<h2 align="center">⚠️ <mark style="color:green;">Common mistakes</mark></h2>
 
 {% hint style="warning" %}
-**Активировал не на том регионе.** Самая частая и самая обидная ошибка. Регион указывается при выдаче кода - активируй строго на нём, иначе код просто не примет или сумма конвертируется не туда.
+**Activated on the wrong region.** The most common and most frustrating mistake. The region is specified when the code is issued — activate strictly on it, otherwise the code simply won't be accepted or the amount will convert to the wrong place.
 
-**Активировал без VPN.** Если аккаунт в другом регионе, а ты активируешь с домашнего IP - получишь ошибку.
+**Activated without a VPN.** If the account is in another region and you activate from your home IP — you'll get an error.
 
-**Активировал не на тот аккаунт.** Проверь, под каким аккаунтом ты залогинен в браузере, **до** того как нажимать кнопку. Отменить нельзя.
+**Activated on the wrong account.** Check which account you're logged into in the browser **before** clicking the button. It can't be undone.
 {% endhint %}

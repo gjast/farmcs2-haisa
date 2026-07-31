@@ -1,43 +1,43 @@
-# Открой свою ферму под моим наставничеством
+# Open your own farm under my mentorship
 
 <figure><img src="../.gitbook/assets/наставничество.png" alt=""><figcaption></figcaption></figure>
 
-<h2 align="center">🔥 <mark style="color:green;">Запуск фермы CS2 с личным сопровождением</mark></h2>
+<h2 align="center">🔥 <mark style="color:green;">Launching a CS2 farm with personal guidance</mark></h2>
 
 {% hint style="success" %}
-Прочитал гайд, но всё равно не понимаешь с чего начать? Или начал, наступил на грабли и не хочешь наступать на них дальше? Тогда это для тебя.
+Read the guide but still don't get where to start? Or started, hit a rake and don't want to keep stepping on them? Then this is for you.
 {% endhint %}
 
-#### Я не продаю «курс из десяти уроков» и не выдаю шаблонные отписки. Это индивидуальная работа: разбираем твою ситуацию, твой бюджет, твоё железо и запускаем ферму так, чтобы она не легла через две недели.
+#### I don't sell a "ten-lesson course" and I don't hand out canned replies. This is one-on-one work: we go over your situation, your budget, your hardware, and launch the farm so it doesn't die in two weeks.
 
-#### Общение не заканчивается на одном созвоне. Я остаюсь на связи, пока ферма не встанет на рельсы, и дальше тоже - потому что первая волна банов случится не в первый день, а вопросы у тебя появятся именно тогда.
-
-***
-
-<h2 align="center">📦 <mark style="color:green;">Что входит</mark></h2>
-
-#### 🕯️ **Разбор всех вопросов.** Никаких «прочитай гайд». Отвечаю по каждой детали, пока не станет понятно, как это работает и почему именно так.
-
-#### 🖥️ **Подбор железа.** Помогу собрать конфиг под твой объём и бюджет, без переплаты за мощности, которые тебе не понадобятся.
-
-#### ⚙️ **Настройка панели.** Разберём панель от установки до автосбора дропа, чтобы ты управлял процессом, а не гадал, что там происходит.
-
-#### ⌛ **Автоматизация подготовки аккаунтов.** Дам доступ к скриптам, которые снимают с тебя самую нудную часть работы.
-
-#### 💲 **Личная скидка в магазине.** Отдельные цены на всё, что нужно для запуска.
-
-#### 🛡️ **Разбор рисков.** Самое важное. Покажу, где именно теряют деньги и как построить ферму так, чтобы одна волна не забрала всё разом.
+#### The communication doesn't end after a single call. I stay in touch until the farm gets on the rails, and after that too — because the first ban wave won't hit on day one, and that's exactly when your questions will show up.
 
 ***
 
-<h2 align="center">❓ <mark style="color:green;">Кому это НЕ подойдёт</mark></h2>
+<h2 align="center">📦 <mark style="color:green;">What's included</mark></h2>
+
+#### 🕯️ **Going over every question.** No "read the guide". I answer every detail until it's clear how it works and why exactly this way.
+
+#### 🖥️ **Hardware selection.** I'll help you put together a config for your volume and budget, without overpaying for power you won't need.
+
+#### ⚙️ **Panel setup.** We'll go through the panel from installation to auto-collecting the drop, so you run the process instead of guessing what's happening in there.
+
+#### ⌛ **Automating account prep.** I'll give you access to scripts that take the most tedious part of the work off you.
+
+#### 💲 **A personal shop discount.** Separate prices on everything you need to get started.
+
+#### 🛡️ **A risk breakdown.** The most important part. I'll show you exactly where money gets lost and how to build the farm so one wave doesn't take everything at once.
+
+***
+
+<h2 align="center">❓ <mark style="color:green;">Who this is NOT for</mark></h2>
 
 {% hint style="warning" %}
-Скажу честно, чтобы не тратить время ни своё, ни твоё:
+I'll be honest, so as not to waste time — yours or mine:
 
-* Если ты ищешь схему без рисков - её нет, и я такую не продам.
-* Если у тебя последние деньги и ты хочешь их удвоить - не надо, серьёзно.
-* Если ты не готов вникать и хочешь, чтобы всё сделали за тебя - тебе нужен [отфарм](otfarm-akkauntov.md), а не наставничество.
+* If you're looking for a risk-free scheme — there isn't one, and I won't sell you that.
+* If it's your last money and you want to double it — don't, seriously.
+* If you're not ready to dig in and want everything done for you — you need [farming service](otfarm-akkauntov.md), not mentorship.
 {% endhint %}
 
-<h3 align="center">Написать мне ➙ <a href="https://t.me/jjjyhhff"><mark style="color:green;">TGLink</mark></a></h3>
+<h3 align="center">Message me ➙ <a href="https://t.me/jjjyhhff"><mark style="color:green;">TGLink</mark></a></h3>

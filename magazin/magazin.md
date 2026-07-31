@@ -1,101 +1,101 @@
-# Магазин «Всё для Фермы»
+# The "Everything for the Farm" shop
 
 <figure><img src="../.gitbook/assets/магазин.png" alt=""><figcaption></figcaption></figure>
 
-#### Всё, что нужно для запуска и работы фермы, в одном месте. Без накруток «за бренд» и без гарантий, которых физически не бывает.
+#### Everything you need to launch and run a farm, in one place. No "brand" markups and no guarantees that physically don't exist.
 
-<h3 align="center"><a href="https://t.me/haisacs"><mark style="color:green;"><strong>🛒 Перейти в магазин</strong></mark></a></h3>
-
-***
-
-<h2 align="center">👁️ <mark style="color:green;">Пустышка Steam Аккаунт</mark></h2>
-
-#### **Происхождение:** авторег
-
-#### **Комплектация:**
-
-* #### 🔵 Логин:Пароль | Steam
-* #### 🔵 Родная почта Outlook | Логин:Пароль
-* #### 🔵 maFile | R-Code
-
-#### **💲 Цена:**
-
-* #### Розница - **0.30$** за аккаунт
-* #### Опт (от 100 штук) - **0.25$** за аккаунт
-
-#### ✅ Идеально для **2x2**
+<h3 align="center"><a href="https://t.me/haisacs"><mark style="color:green;"><strong>🛒 Go to the shop</strong></mark></a></h3>
 
 ***
 
-<h2 align="center">👁️ <mark style="color:green;">Пустышка + 2-й приватный ранг в CS2</mark></h2>
+<h2 align="center">👁️ <mark style="color:green;">Blank Steam Account</mark></h2>
 
-#### **Происхождение:** авторег, 2 ранг получен **ручным фармом**
+#### **Origin:** auto-registered
 
-#### **Комплектация:**
+#### **What's included:**
 
-* #### 🔵 Логин:Пароль | Steam
-* #### 🔵 Родная почта Outlook | Логин:Пароль
+* #### 🔵 Login:Password | Steam
+* #### 🔵 Native Outlook email | Login:Password
 * #### 🔵 maFile | R-Code
 
-#### **💲 Цена:**
+#### **💲 Price:**
 
-* #### Розница - **1.25$** за аккаунт
-* #### Опт (от 100 штук) - **1.00$** за аккаунт
+* #### Retail — **$0.30** per account
+* #### Wholesale (from 100 pcs) — **$0.25** per account
 
-#### ✅ Идеально для **2x2**
+#### ✅ Perfect for **2x2**
+
+***
+
+<h2 align="center">👁️ <mark style="color:green;">Blank + 2nd private rank in CS2</mark></h2>
+
+#### **Origin:** auto-registered, 2nd rank obtained by **manual farming**
+
+#### **What's included:**
+
+* #### 🔵 Login:Password | Steam
+* #### 🔵 Native Outlook email | Login:Password
+* #### 🔵 maFile | R-Code
+
+#### **💲 Price:**
+
+* #### Retail — **$1.25** per account
+* #### Wholesale (from 100 pcs) — **$1.00** per account
+
+#### ✅ Perfect for **2x2**
 
 {% hint style="info" %}
-Второй ранг открывает доступ к соревновательным режимам. Если твоя панель его требует - берёшь сразу с рангом и не тратишь время и деньги на ручную прокачку.
+The second rank unlocks access to competitive modes. If your panel requires it — get it with the rank right away and don't waste time and money on manual leveling.
 {% endhint %}
 
 ***
 
-<h2 align="center">🧰 <mark style="color:green;">Готовый аккаунт для фарма CS2 Prime</mark></h2>
+<h2 align="center">🧰 <mark style="color:green;">Ready-made account for CS2 Prime farming</mark></h2>
 
-#### **💼 Что в аккаунте:**
+#### **💼 What's in the account:**
 
-* #### ➡️ Прайм-статус CS2
-* #### ➡️ Первая игра на аккаунте - не прайм CS2
-* #### ➡️ Открыт трейд
-* #### ➡️ Открыта торговая площадка либо начался недельный срок разблокировки
+* #### ➡️ CS2 Prime status
+* #### ➡️ The first game on the account is not Prime CS2
+* #### ➡️ Trading open
+* #### ➡️ The marketplace is open, or the one-week unlock period has begun
 
-#### **💲 Цена зависит от срока выдачи:**
+#### **💲 Price depends on delivery time:**
 
-| Комплектация | Цена   | Срок выдачи            |
-| ------------ | ------ | ---------------------- |
-| **#1**       | 15.60$ | от 30 минут до 2 часов |
-| **#2**       | 15.10$ | от 1 до 3 суток        |
-| **#3**       | 14.50$ | от 1 до 7 суток        |
+| What's included | Price   | Delivery time              |
+| --------------- | ------- | -------------------------- |
+| **#1**          | $15.60  | from 30 minutes to 2 hours |
+| **#2**          | $15.10  | from 1 to 3 days           |
+| **#3**          | $14.50  | from 1 to 7 days           |
 
-#### ✅ Идеально для **2x2** и **Deathmatch**
+#### ✅ Perfect for **2x2** and **Deathmatch**
 
 {% hint style="success" %}
-Логика цен простая: чем быстрее нужен аккаунт, тем дороже. Если у тебя нет горящего дедлайна - бери третью комплектацию и экономь на объёме.
+The pricing logic is simple: the faster you need the account, the more expensive it is. If you don't have a burning deadline — take the third option and save at volume.
 {% endhint %}
 
 ***
 
-<h2 align="center">💳 <mark style="color:green;">Оплата</mark></h2>
+<h2 align="center">💳 <mark style="color:green;">Payment</mark></h2>
 
-* #### Любая крипта 💰🪙
-* #### Ключи TF2 🗝️
-
-***
-
-<h2 align="center">🌟 <mark style="color:green;">Панели для фарма</mark></h2>
-
-* #### [**DM Panel**](https://t.me/dmpanelsbot?start=6810487864) - то, чем пользуюсь сам и рекомендую
-* #### [**FSM Panel**](https://t.me/moonlighter_shop_bot?start=6810487864) **- очень рисково, высок шанс бана**
-* #### [**Manager Standard**](https://t.me/standard_arb_bot?start=jjjyhhff) **- использую для удобного управления своей тысячи аккаунтов**
+* #### Any crypto 💰🪙
+* #### TF2 keys 🗝️
 
 ***
 
-<h2 align="center">📎 <mark style="color:green;">Полезные ссылки</mark></h2>
+<h2 align="center">🌟 <mark style="color:green;">Farming panels</mark></h2>
 
-* #### 🏡 [Основной канал - Ферма без Выебонов](https://t.me/fermabezviebonov)
-* #### 💬 [Фермерский чат](https://t.me/+c3hy7i0qID41ZTBk)
-* #### 🎮 [Discord - сервер](https://discord.gg/xxxxxxxx)
-* #### 🎁 [Отзывы](https://t.me/+zbdSCk-_XG0wYzA8)
-* #### 👤 [Личка - TGLink](https://t.me/jjjyhhff)
+* #### [**DM Panel**](https://t.me/dmpanelsbot?start=6810487864) — what I use myself and recommend
+* #### [**FSM Panel**](https://t.me/moonlighter_shop_bot?start=6810487864) **— very risky, high chance of a ban**
+* #### [**Manager Standard**](https://t.me/standard_arb_bot?start=jjjyhhff) **— I use it to conveniently manage my thousand accounts**
 
-<h3 align="center">По любым вопросам ➙ <a href="https://t.me/jjjyhhff"><mark style="color:green;">TGLink</mark></a></h3>
+***
+
+<h2 align="center">📎 <mark style="color:green;">Useful links</mark></h2>
+
+* #### 🏡 [Main channel — Ферма без Выебонов](https://t.me/fermabezviebonov)
+* #### 💬 [Farmers' chat](https://t.me/+c3hy7i0qID41ZTBk)
+* #### 🎮 [Discord — server](https://discord.gg/xxxxxxxx)
+* #### 🎁 [Reviews](https://t.me/+zbdSCk-_XG0wYzA8)
+* #### 👤 [DM — TGLink](https://t.me/jjjyhhff)
+
+<h3 align="center">For any questions ➙ <a href="https://t.me/jjjyhhff"><mark style="color:green;">TGLink</mark></a></h3>
