@@ -94,6 +94,7 @@
 
 * #### 🏡 [Основной канал - Ферма без Выебонов](https://t.me/fermabezviebonov)
 * #### 💬 [Фермерский чат](https://t.me/+c3hy7i0qID41ZTBk)
+* #### 🎮 [Discord - сервер](https://discord.gg/xxxxxxxx)
 * #### 🎁 [Отзывы](https://t.me/+zbdSCk-_XG0wYzA8)
 * #### 👤 [Личка - TGLink](https://t.me/jjjyhhff)
 
