@@ -14,7 +14,6 @@ description: Ферма CS2 без выебонов - гайд от Жителя
 **Основной канал** - [Ферма без Выебонов](https://t.me/fermabezviebonov)\
 **Магазин** - [Haisa Shop | Всё для Фермы](https://t.me/haisacs)\
 **Фермерский чат** - [вступить](https://t.me/+c3hy7i0qID41ZTBk)\
-**Discord** - [зайти на сервер](https://discord.gg/xxxxxxxx)\
 **Личка** - [TGLink](https://t.me/jjjyhhff)
 {% endhint %}
 
