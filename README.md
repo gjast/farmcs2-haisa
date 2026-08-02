@@ -11,11 +11,11 @@ description: CS2 farming without the BS — a guide from a guy who actually runs
 {% hint style="success" %}
 The guide is free and will keep getting updated. If something is outdated or you spot a mistake — DM me, I'll fix it.
 
+**Discord** — [join the server](https://discord.gg/KeQBUx376D)\
+**DM** — [TGLink](https://t.me/jjjyhhff)\
 **Main channel** — [Ферма без Выебонов](https://t.me/fermabezviebonov)\
 **Shop** — [Haisa Shop | Everything for the Farm](https://t.me/haisacs)\
-**Farmers' chat** — [join](https://t.me/+c3hy7i0qID41ZTBk)\
-**Discord** — [join the server](https://discord.gg/xxxxxxxx)\
-**DM** — [TGLink](https://t.me/jjjyhhff)
+**Farmers' chat** — [join](https://t.me/+c3hy7i0qID41ZTBk)
 {% endhint %}
 
 ***

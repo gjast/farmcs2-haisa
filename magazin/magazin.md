@@ -61,11 +61,11 @@ The second rank unlocks access to competitive modes. If your panel requires it �
 
 #### **💲 Price depends on delivery time:**
 
-| What's included | Price   | Delivery time              |
-| --------------- | ------- | -------------------------- |
-| **#1**          | $15.60  | from 30 minutes to 2 hours |
-| **#2**          | $15.10  | from 1 to 3 days           |
-| **#3**          | $14.50  | from 1 to 7 days           |
+| What's included | Price  | Delivery time              |
+| --------------- | ------ | -------------------------- |
+| **#1**          | $15.60 | from 30 minutes to 2 hours |
+| **#2**          | $15.10 | from 1 to 3 days           |
+| **#3**          | $14.50 | from 1 to 7 days           |
 
 #### ✅ Perfect for **2x2** and **Deathmatch**
 
@@ -94,7 +94,7 @@ The pricing logic is simple: the faster you need the account, the more expensive
 
 * #### 🏡 [Main channel — Ферма без Выебонов](https://t.me/fermabezviebonov)
 * #### 💬 [Farmers' chat](https://t.me/+c3hy7i0qID41ZTBk)
-* #### 🎮 [Discord — server](https://discord.gg/xxxxxxxx)
+* #### 🎮 [Discord — server](https://discord.gg/KeQBUx376D)
 * #### 🎁 [Reviews](https://t.me/+zbdSCk-_XG0wYzA8)
 * #### 👤 [DM — TGLink](https://t.me/jjjyhhff)
 
